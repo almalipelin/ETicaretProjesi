@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETicaret.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73f602056aee2ed76909a65854a7263f2eec428")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c497759cd924a029da0a69d678f77e4f4ce870d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETicaret.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETicaret.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
