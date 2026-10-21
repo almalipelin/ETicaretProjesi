@@ -13,5 +13,7 @@ namespace ETicaret.Entities
         public string Description { get; set; } = string.Empty;
         public bool IsActive { get; set; } = true;
         public DateTime CreatedDate { get; set; } = DateTime.Now;
+
+        public ICollection<Product> Products { get; set; } = new List<Product>();
     }
 }

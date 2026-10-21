@@ -15,5 +15,8 @@ namespace ETicaret.Entities
         public int Stock { get; set; }
         public bool IsActive { get; set; } = true;
         public DateTime CreatedDate { get; set; } = DateTime.Now;
+
+        public int CategoryId { get; set; }
+        public Category Category { get; set; } = null!;
     }
 }
