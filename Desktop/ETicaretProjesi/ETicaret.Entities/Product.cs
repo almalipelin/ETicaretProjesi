@@ -16,7 +16,11 @@ namespace ETicaret.Entities
         public bool IsActive { get; set; } = true;
         public DateTime CreatedDate { get; set; } = DateTime.Now;
 
+        //---İLİŞKİ KODLARI---
+
+        //Foreign Key: Veritabanında ürünün hangi kategoriye ait olduğunu tutan sadece bir sayıdır.
         public int CategoryId { get; set; }
+        //Navigation Property(Sanal Köprü):C# tarafında kod yazarken, ürünün kategorisinin detaylarına doğrudan erişmemizi sağlar.Veritabanında fazladan sütun oluşturmaz.
         public Category Category { get; set; } = null!;
     }
 }

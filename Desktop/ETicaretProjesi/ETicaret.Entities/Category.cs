@@ -14,6 +14,8 @@ namespace ETicaret.Entities
         public bool IsActive { get; set; } = true;
         public DateTime CreatedDate { get; set; } = DateTime.Now;
 
-        public ICollection<Product> Products { get; set; } = new List<Product>();
+        //---İLİŞKİ KODU---
+
+        public ICollection<Product> Products { get; set; } = new List<Product>(); //Bir kategorinin içinde birden fazla ürün olabileceğini C#'a söyleriz.Hata vermemisi için boş liste atarız.
     }
 }

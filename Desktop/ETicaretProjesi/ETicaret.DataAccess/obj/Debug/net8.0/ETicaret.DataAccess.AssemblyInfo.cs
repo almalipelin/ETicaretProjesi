@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETicaret.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73f602056aee2ed76909a65854a7263f2eec428")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82e19637b441fa8dcd4bdaac2146c93174beca8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETicaret.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETicaret.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
