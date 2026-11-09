@@ -1,0 +1,16 @@
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\bin\Debug\net8.0\ETicaret.DataAccess.deps.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\bin\Debug\net8.0\ETicaret.DataAccess.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\bin\Debug\net8.0\ETicaret.DataAccess.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\bin\Debug\net8.0\ETicaret.Entities.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\bin\Debug\net8.0\ETicaret.Entities.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.csproj.AssemblyReference.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.AssemblyInfoInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.AssemblyInfo.cs
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.sourcelink.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.D904F028.Up2Date
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\refint\ETicaret.DataAccess.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ETicaret.DataAccess.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.DataAccess\obj\Debug\net8.0\ref\ETicaret.DataAccess.dll

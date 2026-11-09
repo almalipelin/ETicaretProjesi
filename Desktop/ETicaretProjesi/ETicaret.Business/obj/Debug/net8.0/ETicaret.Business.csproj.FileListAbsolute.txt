@@ -1,0 +1,12 @@
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\bin\Debug\net8.0\ETicaret.Business.deps.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\bin\Debug\net8.0\ETicaret.Business.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\bin\Debug\net8.0\ETicaret.Business.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.AssemblyInfoInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.AssemblyInfo.cs
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.csproj.CoreCompileInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.sourcelink.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\refint\ETicaret.Business.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ETicaret.Business.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Business\obj\Debug\net8.0\ref\ETicaret.Business.dll

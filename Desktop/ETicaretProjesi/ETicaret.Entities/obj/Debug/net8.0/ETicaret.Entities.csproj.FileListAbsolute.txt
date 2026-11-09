@@ -1,0 +1,12 @@
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\bin\Debug\net8.0\ETicaret.Entities.deps.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\bin\Debug\net8.0\ETicaret.Entities.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\bin\Debug\net8.0\ETicaret.Entities.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.AssemblyInfoInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.AssemblyInfo.cs
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.sourcelink.json
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\refint\ETicaret.Entities.dll
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ETicaret.Entities.pdb
+C:\Users\salma\Desktop\ETicaretProjesi\ETicaret.Entities\obj\Debug\net8.0\ref\ETicaret.Entities.dll

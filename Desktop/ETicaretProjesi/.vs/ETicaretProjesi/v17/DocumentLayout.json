@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|solutionrelative:eticaret.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|solutionrelative:eticaret.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.api\\eticaret.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AC13DCD-E45A-4B85-B038-D57BE66765BE}|ETicaret.API\\ETicaret.API.csproj|solutionrelative:eticaret.api\\eticaret.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|solutionrelative:eticaret.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|solutionrelative:eticaret.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{732A68AE-CDCD-4D5A-8205-0118D2F5FDC4}|ETicaret.DataAccess\\ETicaret.DataAccess.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.dataaccess\\eticaretdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{732A68AE-CDCD-4D5A-8205-0118D2F5FDC4}|ETicaret.DataAccess\\ETicaret.DataAccess.csproj|solutionrelative:eticaret.dataaccess\\eticaretdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|c:\\users\\salma\\desktop\\eticaretprojesi\\eticaret.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9B80D-8537-4CE9-B052-166B43AB5446}|ETicaret.Entities\\ETicaret.Entities.csproj|solutionrelative:eticaret.entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +38,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ETicaret.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\appsettings.json",
+              "RelativeToolTip": "ETicaret.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T09:52:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261109104004_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs",
+              "RelativeToolTip": "ETicaret.DataAccess\\Migrations\\20261109104004_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:40:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\Program.cs",
+              "RelativeDocumentMoniker": "ETicaret.API\\Program.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\Program.cs",
+              "RelativeToolTip": "ETicaret.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:15:01.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ETicaret.API",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\ETicaret.API.csproj",
+              "RelativeDocumentMoniker": "ETicaret.API\\ETicaret.API.csproj",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.API\\ETicaret.API.csproj",
+              "RelativeToolTip": "ETicaret.API\\ETicaret.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T08:09:54.538Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ETicaret.Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.Entities\\Product.cs",
+              "RelativeToolTip": "ETicaret.Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T18:58:07.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ETicaretDbContext.cs",
               "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.DataAccess\\ETicaretDbContext.cs",
               "RelativeDocumentMoniker": "ETicaret.DataAccess\\ETicaretDbContext.cs",
               "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.DataAccess\\ETicaretDbContext.cs",
               "RelativeToolTip": "ETicaret.DataAccess\\ETicaretDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-08T14:42:34.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.Entities\\Category.cs",
               "RelativeDocumentMoniker": "ETicaret.Entities\\Category.cs",
@@ -52,19 +133,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T18:46:13.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ETicaret.Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\salma\\Desktop\\ETicaretProjesi\\ETicaret.Entities\\Product.cs",
-              "RelativeToolTip": "ETicaret.Entities\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T18:58:07.979Z",
               "EditorCaption": ""
             }
           ]
